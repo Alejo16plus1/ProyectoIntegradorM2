@@ -1,0 +1,43 @@
+.primerDiv{
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    background-color: rgba(131, 207, 236, 0.9);
+    margin: auto;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    text-align: center;
+    height: 200px;
+    width: 500px;
+}
+
+.segundoDiv{
+    margin-top: 20px;
+    font-family: 'Roboto', sans-serif;
+    color: #202020;
+}
+
+.text{
+    position: relative;
+    font-size: larger;
+    font-weight: bold;
+}
+
+.primerDiv input{
+    margin-left: 15px;
+    border-radius: 5px;
+}
+.primerDiv button{
+    margin-top: 15px;
+    background-color: #202020;
+    font-weight: bold;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    color: white;
+}
+span{
+    margin-left: 15px;
+    font-size: larger;
+}

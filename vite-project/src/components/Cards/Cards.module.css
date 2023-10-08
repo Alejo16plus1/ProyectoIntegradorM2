@@ -1,0 +1,9 @@
+.wrapperCards{
+    background-image: url("https://wallpapers.com/images/featured/rick-and-morty-cool-background-t3ynu5ly9m7jq6e2.jpg");
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    width: 100%;
+    height: 100vh;
+    padding-top: 50px;
+}

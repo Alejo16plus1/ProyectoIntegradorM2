@@ -1,0 +1,19 @@
+.nav{
+    position: relative;
+    background-color: rgb(135, 170, 235);
+    height: 70px;
+    text-decoration: none;
+}
+
+.links {
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    text-decoration: none;
+    display: flex;
+    gap: 20px;
+    position: absolute;
+    text-align: right;
+    right: 350px;
+    top: 25px;
+}
+
